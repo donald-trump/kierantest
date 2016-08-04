@@ -1,0 +1,24 @@
+{
+  "name": "qolor",
+  "main": "./lib/qolor",
+  "version": "0.2.2",
+  "description": "An atom package to color your queries!",
+  "keywords": [
+    "sql",
+    "query",
+    "semantic",
+    "highlight",
+    "color",
+    "tables",
+    "joins",
+    "syntax"
+  ],
+  "repository": "https://github.com/davidlgoldberg/qolor",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "md5": "2.0.0"
+  }
+}
